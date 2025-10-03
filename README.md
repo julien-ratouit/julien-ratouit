@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julien-ratouit
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning anguler and react
-- 💞️ I’m working on a miraculous minecraft server web app
+- 🌱 I’m currently learning kotlin and django
 - 📫 contact me at ratouitj@gmail.com
 
 <!---
