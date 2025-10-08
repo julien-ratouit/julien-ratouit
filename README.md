@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julien-ratouit
-- 👀 I’m interested in web technologies
-- 🌱 I’m currently learning kotlin and django
+- 👀 I’m interested in cloud and new AI's way to build apps
+- 🌱 I’m currently learning about google cloud and AI coding enviroment
 - 📫 contact me at ratouitj@gmail.com
 
 <!---
